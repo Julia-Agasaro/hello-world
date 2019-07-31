@@ -1,8 +1,8 @@
 # Hello-World
 
 ## Authors
-- [Julia Agasaro](https://github.com/Julia-Agasaro)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Julia Agasaro]  https://github.com/Julia-Agasaro
+ 
 
 ## Project setup instructions
 To start using this project use the following commands:
